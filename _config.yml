@@ -3,7 +3,7 @@ title: Sooran Lee # your site title
 author: Sooran Lee # You :P
 description: > # Meta description of Homepage
   This is Sooran Lee's homepage.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sooranlee.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
