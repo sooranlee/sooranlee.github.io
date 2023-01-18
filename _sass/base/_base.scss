@@ -29,6 +29,9 @@ img {
   height: auto;
   width: auto;
   vertical-align: middle;
+}
+
+figure > img {
   object-fit: cover;
 }
 
