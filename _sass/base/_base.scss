@@ -31,10 +31,6 @@ img {
   vertical-align: middle;
 }
 
-figure > img {
-  object-fit: cover;
-}
-
 img::selection {
   background: transparent;
 }
