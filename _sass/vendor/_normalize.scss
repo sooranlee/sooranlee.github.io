@@ -228,7 +228,7 @@ img {
 }
 
 figure > img {
-  object-fit: cover;
+  object-fit: cover !important;
 }
 
 /**
