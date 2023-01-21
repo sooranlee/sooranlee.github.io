@@ -8,14 +8,9 @@ url: "https://sooranlee.github.io/" # the base hostname & protocol for your site
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Sooran Lee
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://www.instagram.com/srlovepitt/
 
 # THEME SETTINGS
 navigation: # Navigation links
