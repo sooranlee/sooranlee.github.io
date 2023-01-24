@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
-
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+편안하고 행복한 느낌을 주는 그림들을 그리고자 합니다.  
+어려운 그림보다는 직관적으로 이해할 수 있고, 쉽게 다가갈 수 있는 그림을 그리고 싶습니다.  
+주로 일상에서 얻은 소재들을 재해석하여 캔버스 및 디지털 페인팅 작업을 하고 있습니다
