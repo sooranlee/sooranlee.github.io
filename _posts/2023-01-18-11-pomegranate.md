@@ -7,4 +7,5 @@ tag: fruits
 
 ![](/assets/img/posts/11_Pomegranate_canvas.jpg)
 
+Acrylic on canvas, 50x50cm  
 Copyright © 알란 All Rights Reserved.
