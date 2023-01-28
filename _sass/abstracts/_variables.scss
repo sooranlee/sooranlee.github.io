@@ -16,8 +16,7 @@ $dark-light: #313237;
 $outline: #dbdbdb;
 $grey: #838c8d;
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
-$font-stack: -apple-system, BlinkMacSystemFont, Roboto, "Noto Sans KR", "Helvetica Neue", Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+$font-stack: -apple-system, BlinkMacSystemFont, "Noto Sans KR", Roboto, "Helvetica Neue", Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 
 // Breakpoints
 $xs: 0;
