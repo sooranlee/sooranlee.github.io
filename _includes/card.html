@@ -18,6 +18,9 @@
           alt="{{post.title}}"
           style="object-fit: cover"
         />
+        {% if post.sold %}
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/img/icons/sold.svg" />
+        {% endif %}
         <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript>
       </figure>
     {% else %}
