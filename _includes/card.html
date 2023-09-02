@@ -19,7 +19,7 @@
           style="object-fit: cover"
         />
         {% if post.sold %}
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/img/icons/sold.svg" />
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/img/icons/sold.svg" style="background-color: #00000040;" />
         {% endif %}
         <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript>
       </figure>
