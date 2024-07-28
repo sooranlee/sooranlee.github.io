@@ -8,4 +8,4 @@ tag: flowers
 ![](/assets/img/posts/2_The_harmony_of_flowers_canvas.jpg)
 
 Acrylic on canvas, 32x41cm  
-Copyright © 알란 All Rights Reserved.
+Copyright © 이수란 All Rights Reserved.
