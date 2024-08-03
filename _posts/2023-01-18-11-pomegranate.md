@@ -3,6 +3,7 @@ layout: post
 title: "Fruits #11 Pomegranate (Acrylic on Canvas)"
 featured-img: 11_Pomegranate_canvas
 tag: fruits
+sold: true
 ---
 
 ![](/assets/img/posts/11_Pomegranate_canvas.jpg)
