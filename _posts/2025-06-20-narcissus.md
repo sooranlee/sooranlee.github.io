@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Narcissus (Acrylic on Canvas)"
+title: "나의 구근 일지 (Acrylic on Canvas)"
 featured-img: Narcissus
 tag: plant
 ---
