@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "길가에 핀 도라지꽃 (Acrylic on Canvas)"
+title: "보랏빛 별 (Acrylic on Canvas)"
 featured-img: Platycodon
 tag: plant
 ---
