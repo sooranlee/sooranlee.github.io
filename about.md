@@ -9,6 +9,7 @@ permalink: /about/
 주로 일상에서 얻은 소재들을 재해석하여 캔버스 및 디지털 페인팅 작업을 하고 있습니다.  
 
 **수상**  
+[2025.10 제5회 중앙회화대전 특선](https://sooranlee.github.io/memories-of-a-spring-day/)  
 [2024.12 제 10회 대한민국모던아트대상전 입선](https://sooranlee.github.io/06-pear/)  
 
 **전시**  
